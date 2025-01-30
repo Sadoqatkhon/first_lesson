@@ -1,11 +1,11 @@
 # Juft yoki toq sonni aniqlash
 # Foydalanuvchidan son kiritishni so‘rang va uning juft yoki toq ekanligini aniqlang.
 
-# son = int(input('son kiriting: '))
-# if son%2 == 0:
-#     print('Juft')
-# else:
-#     print('Toq')
+son = int(input('son kiriting: '))
+if son%2 == 0:
+    print('Juft')
+else:
+    print('Toq')
 
 
 # Fahrenheit → Celsius aylantirish
@@ -24,13 +24,13 @@
 
 # Katta yoki kichik sonni aniqlash
 # Ikki son berilgan, kattasini ekranga chiqaring.
-# a = int(input('1-son'))
-# b = int(input('2-son'))
-#
-# if a > b:
-#     print(a)
-# else:
-#     print(b)
+a = int(input('1-son'))
+b = int(input('2-son'))
+
+if a > b:
+    print(a)
+else:
+    print(b)
 
 # String teskari qilish
 # Foydalanuvchidan so‘z kiritishni so‘rang va uni teskari qilib ekranga chiqaring.
@@ -59,3 +59,4 @@ def fibonacci(n):
         return 1
 
 
+# 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
